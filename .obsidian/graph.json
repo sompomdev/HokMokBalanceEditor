@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "#balance-editor",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "last",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": ".vue",
+      "color": {
+        "a": 1,
+        "rgb": 5431439
+      }
+    },
+    {
+      "query": "list",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "js",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.85405547752809,
+  "lineSizeMultiplier": 2.44031776685393,
+  "collapse-forces": false,
+  "centerStrength": 0.122191011235955,
+  "repelStrength": 10,
+  "linkStrength": 0.793936965811966,
+  "linkDistance": 245,
+  "scale": 0.7695936809347096,
+  "close": true
+}

@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "8623842a421d9930",
+    "type": "split",
+    "children": [
+      {
+        "id": "437a4aac1a2d3842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "infos/Hokmok Plan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "45b27753bdadbf21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "infos/HokMok Rules.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2339e29f5ac94915",
+    "type": "split",
+    "children": [
+      {
+        "id": "1acf16e81760266f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c41ad51ad0619c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b61550cdddb5d37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#plan",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "right": {
+    "id": "5e150e03b3c7539e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e43cf2ce6874e4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8617cb36f4145c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "infos/HokMok Rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "94c68f8e914d0823",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "infos/HokMok Rules.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "45b27753bdadbf21",
+  "lastOpenFiles": [
+    "infos/Hokmok Plan.md",
+    "infos/Balance Editor.md",
+    "infos/Afficher les DPS des support.md",
+    "infos/Hok Mok notes sur la Balance.md",
+    "infos/NOtes Item Effect.md",
+    "infos/Formula Cost Diamond of Mana Portion.md",
+    "infos/gold.md",
+    "infos/Resources.md",
+    "infos/Compute money win depending on the boss level.md",
+    "infos/Temporary Notes.md"
+  ]
+}

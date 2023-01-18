@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "infos",
+  "attachmentFolderPath": "files"
+}
